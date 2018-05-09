@@ -1,0 +1,14 @@
+ssl
+main
+urllib3
+info
+pyopenssl
+json
+idna
+chardet
+_implementation
+requests_version
+OpenSSL
+platform
+sys
+cryptography

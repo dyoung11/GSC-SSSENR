@@ -1,0 +1,12 @@
+FAVORITE_HASH
+iterkeys
+MissingHashes
+iteritems
+InstallationError
+STRONG_HASHES
+HashMissing
+Hashes
+itervalues
+read_chunks
+hashlib
+HashMismatch

@@ -1,0 +1,8 @@
+to_sax
+prefix
+localName
+unadjustForeignAttributes
+prefix_mapping
+adjustForeignAttributes
+namespace
+AttributesNSImpl

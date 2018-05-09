@@ -1,0 +1,13 @@
+sys
+supports_lone_surrogates
+memoize
+text_type
+_x
+isSurrogatePair
+__all__
+surrogatePairToCodepoint
+MethodDispatcher
+default_etree
+ModuleType
+PY27
+moduleFactoryFactory

@@ -1,0 +1,17 @@
+sys
+base
+_ihatexml
+tag_regexp
+re
+etree_builders
+TreeBuilder
+etree
+DataLossWarning
+fullTree
+DocumentType
+comment_type
+warnings
+tostring
+constants
+testSerializer
+Document

@@ -1,0 +1,15 @@
+sys
+logging
+dictConfig
+types
+IDENTIFIER
+re
+_checkLevel
+six
+ConvertingList
+ConvertingDict
+ConvertingTuple
+BaseConfigurator
+valid_ident
+DictConfigurator
+dictConfigClass

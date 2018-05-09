@@ -1,0 +1,17 @@
+nocbreak
+echo
+setupterm
+COLORS
+start_color
+panel
+ascii
+wrapper
+endwin
+textpad
+_os
+has_key
+cbreak
+COLOR_PAIRS
+_sys
+initscr
+noecho
